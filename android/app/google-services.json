@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "861344555964",
+    "firebase_url": "https://detail-crud-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "detail-crud",
+    "storage_bucket": "detail-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861344555964:android:39134e67dfaf824f7101b9",
+        "android_client_info": {
+          "package_name": "com.example.project_orange_ish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861344555964-mit5uncjfnj435ro7a7jji59a6r8b9fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATYfYj_Dp1pimiBZCd_g4XrZ_3vJRR-dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861344555964-mit5uncjfnj435ro7a7jji59a6r8b9fs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861344555964-dllgm5cst15vqpk98m71n7frcec5n3a0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled7"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
